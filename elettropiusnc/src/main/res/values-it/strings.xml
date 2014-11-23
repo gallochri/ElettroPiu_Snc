@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElettroPiù Snc</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Azienda</string>
+    <string name="title_section3">Cotatti</string>
+    <string name="navigation_drawer_open">Apri drawer</string>
+    <string name="navigation_drawer_close">Chiudi drawer</string>
+    <string name="action_example">Chiama!</string>
+    <string name="action_settings">Impostazioni</string>
+</resources>
