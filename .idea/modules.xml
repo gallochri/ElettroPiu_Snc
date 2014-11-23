@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ElettroPiSnc.iml" filepath="$PROJECT_DIR$/ElettroPiSnc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElettroPiu_Snc.iml" filepath="$PROJECT_DIR$/ElettroPiu_Snc.iml" />
       <module fileurl="file://$PROJECT_DIR$/elettropiusnc/elettropiusnc.iml" filepath="$PROJECT_DIR$/elettropiusnc/elettropiusnc.iml" />
     </modules>
   </component>
